@@ -15,9 +15,9 @@ This repository contains academic and self-initiated projects showcasing my skil
 
 ### 2. Database Management Systems Lab
 * **Tools:** UML, Relational Schema Design
-* **Description:** Designed a normalized relational database schema, translating business requirements into a conceptual UML diagram and relational tables with primary/foreign keys.
+* **Description:** Designed a conceptual UML schema for a training centre system, and transformed a complex senior care centre schema into 9+ relational tables using the Association method. Defined primary, alternate, and foreign keys to ensure strict data integrity.
 * **View the Project:** 
-  * [Read the Database Design Report (PDF)](Project2/Your_DB_Report_File_Name.pdf) *(Once you upload Project 2, update this link)*
+  * [Read the Database Design Report (PDF)](02_Database_Design/Relational_Database_Schema_Design.pdf)
 
 ---
-*Contact: tankaifeng98@gmail.com | LinkedIn: [Insert your LinkedIn Link]*
+*Contact: tankaifeng98@gmail.com | LinkedIn: www.linkedin.com/in/tankaifeng*
