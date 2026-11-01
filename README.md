@@ -10,8 +10,8 @@ This repository contains academic and self-initiated projects showcasing my skil
 * **Tools:** Excel (Pivot Tables, VLOOKUP, Nested Formulas, Trendlines)
 * **Description:** Processed 25 years (1999–2023) of World Development Indicators for Vietnam, Japan, and China. Computed 20+ derived metrics (GDP per capita, trade openness, labour productivity) and built 5 multi-panel charts with trendlines to identify industrialization-led growth.
 * **View the Project:** 
-  * [Read the Analysis Report (PDF)](Project1/Trade_Analysis_Report.pdf)
-  * [View the Dataset & Formulas (Excel)](Project1/World_Bank_Trade_Analysis_1999_2023.xlsx)
+  * [Read the Analysis Report (PDF)](01_World_Bank_Trade_Analysis/Trade_Analysis_Report.pdf)
+  * [View the Dataset & Formulas (Excel)](01_World_Bank_Trade_Analysis/World_Bank_Trade_Analysis_1999_2023.xlsx)
 
 ### 2. Database Management Systems Lab
 * **Tools:** UML, Relational Schema Design
